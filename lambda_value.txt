@@ -1,0 +1,7 @@
+{'Taker Buy Base Asset Volume': -0.04108943770295633,
+ 'Taker Buy Quote Asset Volume': -0.002661893794157021,
+ 'Taker Sell Base Asset Volume': -0.04513663123550346,
+ 'seller_trades': 0,
+ 'buer_trades': 0,
+ 'Taker Sell Quote Asset Volume': -0.0006397260374988982,
+ 'Range': 0}
